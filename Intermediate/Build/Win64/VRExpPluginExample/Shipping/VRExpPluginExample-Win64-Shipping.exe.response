@@ -242,6 +242,9 @@
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Media\WmfMedia\Intermediate\Build\Win64\UE4\Shipping\WmfMedia\Module.WmfMedia.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Media\WmfMedia\Intermediate\Build\Win64\UE4\Shipping\WmfMediaFactory\Module.WmfMediaFactory.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Media\WmfMedia\Intermediate\Build\Win64\UE4\Shipping\WmfMediaFactory\Module.WmfMediaFactory.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\UE4\Shipping\PythonScriptPluginPreload\PythonScriptPluginPreload.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\Database\SQLiteSupport\Intermediate\Build\Win64\UE4\Shipping\SQLiteSupport\Module.SQLiteSupport.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\Database\DatabaseSupport\Intermediate\Build\Win64\UE4\Shipping\DatabaseSupport\DatabaseSupport.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Messaging\TcpMessaging\Intermediate\Build\Win64\UE4\Shipping\TcpMessaging\Module.TcpMessaging.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Messaging\TcpMessaging\Intermediate\Build\Win64\UE4\Shipping\TcpMessaging\Module.TcpMessaging.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\UE4\Shipping\UdpMessaging\Module.UdpMessaging.cpp.obj"
@@ -1052,6 +1055,9 @@
 /INCLUDE:IMPLEMENT_MODULE_MediaCompositing
 /INCLUDE:IMPLEMENT_MODULE_WmfMedia
 /INCLUDE:IMPLEMENT_MODULE_WmfMediaFactory
+/INCLUDE:IMPLEMENT_MODULE_PythonScriptPluginPreload
+/INCLUDE:IMPLEMENT_MODULE_SQLiteSupport
+/INCLUDE:IMPLEMENT_MODULE_DatabaseSupport
 /INCLUDE:IMPLEMENT_MODULE_TcpMessaging
 /INCLUDE:IMPLEMENT_MODULE_UdpMessaging
 /INCLUDE:IMPLEMENT_MODULE_ActorSequence
