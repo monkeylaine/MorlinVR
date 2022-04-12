@@ -30,7 +30,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Source
+/I C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -117,9 +117,9 @@
 /I Developer\TargetPlatform\Public
 /I ..\Intermediate\Build\Win64\UE4\Inc\AnimationCore
 /I Runtime\AnimationCore\Public
-/I C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions
-/I C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
+/I C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions
+/I C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\AdvancedSessions\AdvancedSessions\Source
+/I C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -129,9 +129,9 @@
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public
 /I Runtime\Networking\Public
-/I C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin
-/I C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
-/I C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
+/I C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin
+/I C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
+/I C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
 /I ..\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay
 /I Runtime\HeadMountedDisplay\Public
 /I ..\Intermediate\Build\Win64\UE4\Inc\AugmentedReality
@@ -189,16 +189,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Intermediate\Build\Win64\VRExpPluginExample\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Intermediate\Build\Win64\VRExpPluginExample\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Intermediate\Build\Win64\VRExpPluginExample\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Source\VRExpPluginExample\VRExpPluginExample.cpp"
-/FI"C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Intermediate\Build\Win64\UE4\Shipping\VRExpPluginExample\Definitions.VRExpPluginExample.h"
-/Fo"C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Intermediate\Build\Win64\UE4\Shipping\VRExpPluginExample\VRExpPluginExample.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Intermediate\Build\Win64\VRExpPluginExample\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Intermediate\Build\Win64\VRExpPluginExample\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Intermediate\Build\Win64\VRExpPluginExample\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Source\VRExpPluginExample\VRExpPluginExample.cpp"
+/FI"C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Intermediate\Build\Win64\UE4\Shipping\VRExpPluginExample\Definitions.VRExpPluginExample.h"
+/Fo"C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Intermediate\Build\Win64\UE4\Shipping\VRExpPluginExample\VRExpPluginExample.cpp.obj"
 /TP
 /GR-
 /W4
