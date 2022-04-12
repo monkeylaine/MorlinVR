@@ -1,15 +1,15 @@
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableActor.gen.cpp
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableActor.gen.cpp
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableActor.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripMotionControllerComponent.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableActor.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripMotionControllerComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\SceneViewExtensionContext.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SceneViewExtensionContext.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBPDatatypes.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRBPDatatypes.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBPDatatypes.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRBPDatatypes.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
@@ -21,22 +21,22 @@ C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Head
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGripInterface.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/VRGripScriptBase.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGripInterface.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/VRGripScriptBase.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRGripScriptBase.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRGripInterface.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRGripScriptBase.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRGripInterface.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\KeyState.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PlayerInput.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InputSettings.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_Melee.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_Default.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GS_Default.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GS_Melee.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_Melee.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_Default.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GS_Default.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GS_Melee.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\PhysXPublic.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\PhysicsCore\Public\PhysXPublicCore.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\PhysicsCore\Public\PhysXIncludes.h
@@ -54,10 +54,10 @@ C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\inc
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxQuat.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec3.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMath.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIntrinsics.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/windows/PxWindowsIntrinsics.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPlane.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat33.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrorCallback.h
@@ -314,13 +314,13 @@ C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\inc
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\legacy\ModuleLegacy.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.inl
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_GunTools.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GS_GunTools.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRGlobalSettings.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_GunTools.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GS_GunTools.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRGlobalSettings.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/DualQuat.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GripMotionControllerComponent.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GripMotionControllerComponent.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SplineComponent.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
@@ -328,7 +328,7 @@ C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engi
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippablePhysicsReplication.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippablePhysicsReplication.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine/Classes/GameFramework/PlayerState.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PlayerState.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettings.h
@@ -355,7 +355,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
@@ -373,7 +373,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
@@ -388,7 +388,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Transform.h
@@ -563,66 +563,66 @@ C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Physics/
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/Union.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceUtilsCore.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\PhysicsReplication.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippablePhysicsReplication.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippablePhysicsReplication.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTags\GameplayTagAssetInterface.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ActorChannel.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Net/DataReplication.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ActorChannel.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippableDataTypes.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableDataTypes.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc/BucketUpdateSubsystem.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\BucketUpdateSubsystem.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableActor.generated.h
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableBoxComponent.gen.cpp
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableBoxComponent.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippableDataTypes.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableDataTypes.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc/BucketUpdateSubsystem.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\BucketUpdateSubsystem.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableActor.generated.h
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableBoxComponent.gen.cpp
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableBoxComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ShapeComponent.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BoxComponent.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableBoxComponent.generated.h
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableCapsuleComponent.gen.cpp
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableCapsuleComponent.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableBoxComponent.generated.h
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableCapsuleComponent.gen.cpp
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableCapsuleComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CapsuleComponent.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableCapsuleComponent.generated.h
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableCharacter.gen.cpp
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableCharacter.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableCapsuleComponent.generated.h
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableCharacter.gen.cpp
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableCharacter.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CharacterMovementReplication.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Character.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippableSkeletalMeshComponent.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableSkeletalMeshComponent.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableCharacter.generated.h
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableDataTypes.gen.cpp
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippablePhysicsReplication.gen.cpp
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableSkeletalMeshActor.gen.cpp
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableSkeletalMeshActor.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippableSkeletalMeshComponent.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableSkeletalMeshComponent.generated.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableCharacter.generated.h
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableDataTypes.gen.cpp
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippablePhysicsReplication.gen.cpp
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableSkeletalMeshActor.gen.cpp
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableSkeletalMeshActor.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Animation/SkeletalMeshActor.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Matinee/MatineeAnimInterface.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MatineeAnimInterface.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SkeletalMeshActor.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableSkeletalMeshActor.generated.h
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableSkeletalMeshComponent.gen.cpp
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableSphereComponent.gen.cpp
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableSphereComponent.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableSkeletalMeshActor.generated.h
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableSkeletalMeshComponent.gen.cpp
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableSphereComponent.gen.cpp
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableSphereComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SphereComponent.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableSphereComponent.generated.h
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableStaticMeshActor.gen.cpp
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableStaticMeshActor.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableSphereComponent.generated.h
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableStaticMeshActor.gen.cpp
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableStaticMeshActor.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\StaticMeshActor.generated.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableStaticMeshActor.generated.h
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableStaticMeshComponent.gen.cpp
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableStaticMeshComponent.h
-C:\Users\3dil18.riet\Documents\ProjetsUE4\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableStaticMeshComponent.generated.h
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GS_Default.gen.cpp
-C:/Users/3dil18.riet/Documents/ProjetsUE4/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GS_GunTools.gen.cpp
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableStaticMeshActor.generated.h
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GrippableStaticMeshComponent.gen.cpp
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Grippables/GrippableStaticMeshComponent.h
+C:\Users\3dil18.moreau\Documents\GitHub\MorlinVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GrippableStaticMeshComponent.generated.h
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GS_Default.gen.cpp
+C:/Users/3dil18.moreau/Documents/GitHub/MorlinVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/VRExpansionPlugin/GS_GunTools.gen.cpp
